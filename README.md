@@ -1,6 +1,6 @@
 # Functional and Logic Programming
 
-# Haskell
+# Haskell Project
 
 This project consists of two parts: 
 - In part 1, it is considered a lower-level machine that receives a list of instructions and executes them, thus being able to modify the evaluation stack or the storage.  
